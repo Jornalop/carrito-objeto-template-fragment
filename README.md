@@ -5,7 +5,7 @@ Si puedes mejorar el código, bienvenido!
 
 
 ##Template
-````
+````HTML
 <template id="template">
     <li class="list-group-item d-flex justify-content-between align-items-center">
         <span class="lead">Frutilla</span>
